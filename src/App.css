@@ -2,5 +2,5 @@
   display: grid;
   place-content: center;
   height: 100vh;
-  background-color: #202020;
+  background-color: rgba(0, 0, 0, 0.487);
 }
